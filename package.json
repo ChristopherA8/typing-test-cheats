@@ -1,0 +1,16 @@
+{
+  "name": "type",
+  "version": "1.0.0",
+  "description": "Beat the world record wpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Chr1s",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "promisify": "0.0.3",
+    "puppeteer": "^5.5.0"
+  }
+}
