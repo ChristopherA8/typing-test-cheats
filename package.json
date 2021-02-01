@@ -1,7 +1,7 @@
 {
   "name": "type",
   "version": "1.0.0",
-  "description": "Beat the world record wpm",
+  "description": "hehe",
   "main": "index.js",
   "scripts": {
     "test": "node ."
